@@ -1,7 +1,6 @@
 # Grid Search Hyperparameter Optimization (HPO)
 
-Grid Search is an exhaustive search of hyperparameters which means it searches for all the possible hyperparameter combinations given by the user.Each different set of hyperparameter combinations is treated as a separate ML/DL
-model. The outcome is the best-performing model.
+Grid Search is an exhaustive search of hyperparameters which means it searches for all the possible hyperparameter combinations given by the user. Each different set of hyperparameter combinations is treated as a separate ML/DL model. The outcome is the best-performing model.
 
 **Prerequisites:**
 
